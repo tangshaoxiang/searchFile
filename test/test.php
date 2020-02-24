@@ -5,7 +5,7 @@
  * Date: 2020/2/24
  * Time: 12:55
  */
-require(dirname(__DIR__) . '/vendor/autoload.php');
+require(dirname(__DIR__) . '/../../../vendor/autoload.php');
 
 $searchFile = new \Tangshaoxiang\Test\SearchFile();
 

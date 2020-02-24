@@ -9,4 +9,4 @@ require(dirname(__DIR__) . '/../../../vendor/autoload.php');
 
 $searchFile = new \Tangshaoxiang\Test\SearchFile();
 
-dump($searchFile->searchAllFile("/usr/local/var/www/easyswoole/swoole/composer/"));
+var_dump($searchFile->searchAllFile("/usr/local/var/www/easyswoole/swoole/composer/"));

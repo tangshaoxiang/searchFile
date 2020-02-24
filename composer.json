@@ -13,5 +13,10 @@
             "Tangshaoxiang\\Test\\":"./src/"
         }
     },
-    "require": {}
+    "require": {
+        "symfony/var-dumper":"*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.3"
+    }
 }

@@ -1,0 +1,17 @@
+{
+    "name": "tangshaoxiang/test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tangshaoxiang",
+            "email": "873246925@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Tangshaoxiang\\Test\\":"./src/"
+        }
+    },
+    "require": {}
+}
